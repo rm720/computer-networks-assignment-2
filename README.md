@@ -9,7 +9,7 @@ Student Ratmir Mugattarov, uni id u6650903
 
 ABOUT
 Written on Java JDK 16
-Proxy server works in between the browser and website. It looks at the content and edit it. Ciies names are replaced by Russian cities, links replace by localhost.
+Proxy server works in between the browser and website. It looks at the content and edit it. Cities names are replaced by Russian cities, links replace by localhost.
 Prints LOG in terminal: request time, request, response time, number of modifications.
 
 REQUIREMENTS
